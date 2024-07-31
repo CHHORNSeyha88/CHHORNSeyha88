@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seyha U Call me Tyler</h1>
-<h3 align="center">A passionate Backend Developer from Cambodia</h3>
+<h3 align="center">A passionate Backend Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhornseyha88&label=Profile%20views&color=0e75b6&style=flat" alt="chhornseyha88" /> </p>
 
