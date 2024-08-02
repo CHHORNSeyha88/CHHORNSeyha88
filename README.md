@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/74/5c/c9/745cc90fcc688569610f84bc5d2b2fd6.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Seyha U Call me Tyler</h1>
 <h3 align="center">A passionate Backend Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed4d345a7200d857b807ddfa1f76da7.png(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5yOGo0Nm9laDNwY2x2Z24zbWprM3M4ZDhzZWgxaGl1NzhldzY2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
