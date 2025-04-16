@@ -1,4 +1,4 @@
-![MasterHead](https://gifdb.com/images/high/anime-banner-gif-file-4345kb-0gto9nqez3pye33n.gif)
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPW7nJXtzN1xGrAoE91ul4atUnGiQK0GLA6lbwLKG3R3OTo5fbF9OlnBqlu2PUtg4dcHwBviD8EJ5AMZi-0jOXKJhyMt9cIiAXGvDUSEoVqU8A7QqjBBPFZG-A_RjDsgY-EwQp4wKOernfC7c8hhnQjYD5dQc15trUjwr8CfUrSoyuC49JYRBjXGchrnZq/s616/DBSZ_3D_Fight.gif)
 <h1 align="center">Hi 👋, I'm Seyha (Tyler)</h1>
 <h3 align="center"> passionate Backend Developer </h3>
 <img align="right" alt="Coding" width="600"  height="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
