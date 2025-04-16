@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Seyha (Tyler)</h1>
 <h3 align="center"> passionate Backend Developer </h3>
-<img align="right" alt="Coding" width="600"  height="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="600"  height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOsWTRrHhWlkAev4P6GJB74H38ufrUEKYADkXDQDKKGMV1Kk130kY0o7ScdwP6yHsfMG8VCtbpD7ejh_azucduCd8cUJrkF-XzpFTQNCaEAK6EyyozS_c4FqAC0qSra3ulrnGtDf1Zld78/s1600/www.GIFCreator.me_nvKt1v.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhornseyha88&label=Profile%20views&color=0e75b6&style=flat" alt="chhornseyha88" /> </p>
 
